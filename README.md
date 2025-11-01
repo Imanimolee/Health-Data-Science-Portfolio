@@ -14,7 +14,7 @@ Welcome! This portolio showcases my projects in **health data science**, **publi
 - **Programming:** Python, R, SAS
 - **Data Science:** tidyverse
 - **Bioinformatics:** BioPython, data parsing for spectral/genomic analysis
-- ** Visualization:** Matplotlib
+- **Visualization:** Matplotlib
 - **Other:** Git, Jupyter Notebook, Terminal (Unix)
 
 - --
