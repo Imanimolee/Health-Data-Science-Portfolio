@@ -2,7 +2,7 @@
 
 Welcome! This portolio showcases my projects in **health data science**, **public health analytics**, and **bioinformatics**. Each project here will emphasize my skills in **data cleaning, visualization, staistical analysis, and genomic data interpretation** using languages such as **Python, R, and SAS**.
 
-### 📂 Projects
+### Projects
 
 | Project | Description | Tools |
 |----------|-------------|--------|
